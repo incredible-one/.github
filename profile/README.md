@@ -28,7 +28,7 @@ We are a Swedish AI startup, founded by Philip Alm and David Bacelj, with Emil W
 
 ## Open source
 
-[STELLA](https://github.com/incredible-one/STELLA) is our earlier multi-agent framework, released under AGPL-3.0. The repository is archived and no longer maintained.
+[STELLA](https://github.com/incredible-one/STELLA) is our first open-source project, a multi-agent framework released in January 2024 under AGPL-3.0.
 
 ## Links
 
