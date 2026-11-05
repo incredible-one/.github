@@ -1,3 +1,4 @@
+<p>
 <a href="https://www.incredible.one">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/incredible-one/.github/main/profile/assets/banner-dark.png">
@@ -5,6 +6,7 @@
     <img alt="Incredible: AI that does tasks on your computer" src="https://raw.githubusercontent.com/incredible-one/.github/main/profile/assets/banner-light.png" width="100%">
   </picture>
 </a>
+</p>
 
 Incredible is a desktop app for Mac and Windows. You hold a key and say what you need, or type it, and it clicks and types in your browser, your files and your apps the way you do, on your own computer.
 
